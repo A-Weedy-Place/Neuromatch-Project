@@ -53,7 +53,8 @@ This project investigates whether resting-state fMRI (rs-fMRI) can predict indiv
 
 - **Support Vector Machine (SVM)** – best accuracy, used for ROI selection.
 - **Lasso Regression** – tested for predicting contrast using rs-fMRI.
-- (Mentioned but not fully implemented in code: Random Forest, XGBoost)
+- **Random Forest**
+- **XGBoost**
 
 ---
 
